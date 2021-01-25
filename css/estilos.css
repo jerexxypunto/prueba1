@@ -17,14 +17,14 @@ body{
 }
 
 .cabezera {
-    font-size: 3rem;
+    font-size: 5rem;
     text-align: center;
     border:2px solid;
 }
-
-h1{
-    font-size: 4rem;
+h2{
+    font-size:4rem;
 }
 p{
     font-size: 1.6rem;
+    margin:1rem 0;
 }
